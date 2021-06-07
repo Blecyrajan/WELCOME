@@ -1,2 +1,2 @@
 # WELCOME 
-The program prompts the user the user for his name and then welcomes him. 
+The program prompts the user for his name and then welcomes him. 
