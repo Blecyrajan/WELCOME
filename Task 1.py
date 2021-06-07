@@ -1,3 +1,4 @@
-#The function converts 'radian()' converts an angle from degrees to radians
-import math
-math.radians(angle)
+pi = 22/7
+degree = float(input("Input degrees: "))
+radian = degree*(pi/180)
+print(radian)
